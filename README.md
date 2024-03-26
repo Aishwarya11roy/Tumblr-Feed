@@ -14,11 +14,6 @@ The following **required** functionality is completed:
 - [x] App populates the table view with data fetched from an API
 
 
-The following **optional** features are implemented:
-
-- [ ] App fetches posts from a different Tumblr blog
-- [ ] App has a refresh control to update the table view
-
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
